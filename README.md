@@ -37,7 +37,7 @@ npm install
 npm run server
 ```
 
-#### Passo 4: Inicie o servidor de desenvolvimento
+#### Passo 4: Inicie o servidor de desenvolvimento (use outro terminal)
 
 ```bash
 npm run dev
