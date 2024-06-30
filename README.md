@@ -72,25 +72,25 @@ A API é mockada utilizando Json-Server.
 
 Aqui estão os endpoints disponíveis (na seção de Documentação da API tem mais detalhes):
 
-#### GET /apolices
+- #### GET /apolices
 
-Retorna a lista paginada de apólices.
+  Retorna a lista paginada de apólices.
 
-#### POST /apolices
+- #### POST /apolices
 
-Cria uma nova apólice.
+  Cria uma nova apólice.
 
-#### GET /apolices/{id}
+- #### GET /apolices/{id}
 
-Retorna os detalhes de uma apólice específica.
+  Retorna os detalhes de uma apólice específica.
 
-#### PUT /apolices/{id}
+- #### PUT /apolices/{id}
 
-Atualiza uma apólice existente.
+  Atualiza uma apólice existente.
 
-#### DELETE /apolices/{id}
+- #### DELETE /apolices/{id}
 
-Exclui uma apólice.
+  Exclui uma apólice.
 
 
 ### 📑 Documentação da API
