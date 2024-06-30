@@ -19,9 +19,6 @@ Este projeto visa digitalizar o processo de gerenciamento de apólices de seguro
 
 ```bash
 git clone https://github.com/ezequiel88/apolice-manager.git
-```
-
-```bash
 cd apolice-manager
 ```
 
