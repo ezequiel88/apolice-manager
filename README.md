@@ -50,13 +50,12 @@ __tests__
 |   |-- ApoliceItemList.test.tsx
 |-- services
 |   |-- apoliceService.test.ts
-artefatos
-|-- api
-|   |-- swagger.yaml
+docs
 |-- design
-|   ... arquivos de prototipagem e design
-|-- requisitos
-|   ... documentação de requisitos
+|   |-- ... arquivos de prototipagem e layout da aplicação
+|-- requisitos.md
+|-- swagger.yaml
+db.json
 
 ... demais arquivos padrões do NextJS
 ```
@@ -92,12 +91,11 @@ Aqui estão os endpoints disponíveis (na seção de Documentação da API tem m
 
 ### 📑 Documentação da API
 
-Na pasta `artefatos/api` contém o arquivo `swagger.yaml` no formato OpenAPI para a importação no [Swagger](https://editor-next.swagger.io/)
+Na pasta `docs` contém o arquivo `swagger.yaml` no formato OpenAPI para a importação no [Swagger](https://editor-next.swagger.io/)
 
 ```
-artefatos
-|-- api
-|   |-- swagger.yaml
+docs
+|-- swagger.yaml
 ```
 
 ### 🧪 Testes

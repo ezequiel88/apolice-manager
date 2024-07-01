@@ -213,4 +213,3 @@ O objetivo deste projeto é digitalizar o processo manual de gerenciamento de ap
 
 - O código será hospedado em uma plataforma de versionamento (GitHub, GitLab, etc.).
 - Incluir um arquivo README.md com instruções claras sobre como clonar e executar o projeto.
-- O prazo para a entrega é de uma semana a partir do recebimento deste teste técnico.
