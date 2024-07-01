@@ -10,7 +10,7 @@ import { delay } from '@/utils/delay';
 import { validateApolice } from '@/utils/validationForm';
 import { Apolice } from '@/types/Apolice';
 import { Cobertura } from '@/types/Cobertura';
-import ModalCobertura from '../ui/ModalCobertura';
+import ModalCobertura from './ModalCobertura';
 import CoberturaItem from './CoberturaItem';
 
 import { toast } from 'react-toastify';

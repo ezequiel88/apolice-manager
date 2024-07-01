@@ -111,7 +111,7 @@ npm test
 Para fazer o deploy do projeto e iniciar o servidor da aplicação, rode o comando abaixo na raiz da aplicação:
 
 ```bash
-npm run build && npm run serve
+npm run build && npm run start
 ```
 
 ### 🤝 Contribuição

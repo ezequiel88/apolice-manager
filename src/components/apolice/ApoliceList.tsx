@@ -36,7 +36,7 @@ export default function ApoliceList() {
     } catch (error) {
       toast.error('Não foi possível listar as Apólices');
     } finally {
-      await delay(1000);
+      await delay(500);
       setLoading(false);
     }
   };
